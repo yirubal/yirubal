@@ -51,7 +51,7 @@
 ## 📌 Spotlight Projects
 
 ### 🔹 [Tera](#)
-- <b>What it is:</b> A backend system focused on modular architecture, structured API routes, and authentication.  
+- <b>What it is:</b> A backend system (built with Django + Django REST Framework) for managing Bajaj (three-wheel taxi) operations across terminals.
 - <b>Tech:</b> Django, DRF, PostgreSQL, Redis, Docker.  
 - <b>Focus:</b> Scalability, clean architecture, and performance.
 

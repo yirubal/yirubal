@@ -61,14 +61,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=yirubal&show_icons=true&hide=stars&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yirubal&layout=compact" />
-</p>
-
----
-
 ## 🤝 Collaboration
 I love collaborating on open-source projects that focus on backend efficiency, API design, and developer experience.  
 If you’re working on similar challenges, I’d love to connect and contribute.

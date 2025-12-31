@@ -51,11 +51,6 @@
 - <b>Tech:</b> Django, DRF, PostgreSQL, Redis, Docker.  
 - <b>Focus:</b> Scalability, clean architecture, and performance.
 
-### 🔹 [Airbnb Clone (ALX Project)](#)
-- <b>What it is:</b> A clone of the Airbnb booking platform built as part of the ALX curriculum.  
-- <b>Tech:</b> Django, REST Framework, PostgreSQL, GraphQL, Docker.  
-- <b>Focus:</b> Property management, secure authentication, and booking flow logic.
-
 ---
 
 ## 🧪 Learning in Action
@@ -63,13 +58,6 @@
 <b>Action:</b> Integrated Celery + Redis to offload email notifications and heavy computations.  
 <b>Result:</b> System performance improved and response times became more predictable.  
 
----
-
-## 🗺️ Roadmap (Next 90 Days)
-- [ ] Refactor Tera’s API into microservices.  
-- [ ] Add GraphQL layer for flexible querying.  
-- [ ] Implement Docker-based CI/CD pipeline with GitHub Actions.  
-- [ ] Explore AWS or DigitalOcean deployment for both projects.
 
 ---
 

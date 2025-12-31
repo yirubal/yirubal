@@ -1,8 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Gedion 👋</h1>
-<p align="center">
-  <b>Learner @ ALX PRO Backend Web Development</b> · Passionate Backend Developer · Open-Source Enthusiast
-</p>
+
 <p align="center">
   <a href="https://github.com/yirubal?tab=followers"><img src="https://img.shields.io/github/followers/yirubal?label=Followers&style=flat-square" /></a>
   <a href="https://visitor-badge.laobi.icu/badge?page_id=yirubal.profile"><img src="https://visitor-badge.laobi.icu/badge?page_id=yirubal.profile" /></a>
@@ -20,11 +18,9 @@
 ---
 
 ## 🚀 Vision & Focus
-- **Vision:** <b>To build human-centered solutions using my coding skills for the betterment of my society.</b>  
-- **Current Program:** ALX PRO Backend Web Development — sharpening skills in <b>API design, database optimization, CI/CD, Docker, and system scalability.</b>  
+- **Vision:** <b>To build human-centered solutions using my coding skills for the betterment of my society.</b>   
 - **Current Projects:**  
   - 🧱 **Tera** — an independent backend project focusing on building structured RESTful APIs and reusable logic.  
-  - 🏡 **Airbnb Clone** — an ALX project that replicates Airbnb’s booking system using Django, PostgreSQL, and GraphQL.  
 - **Open to:** Collaborative projects, backend internships, and open-source contributions.
 
 ---
